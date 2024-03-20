@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my other account [PaulMuellerQC](https://github.com/PaulKMueller/PaulKMueller/edit/main/README.md)
+
 <!--
 **PaulKMueller/PaulKMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
